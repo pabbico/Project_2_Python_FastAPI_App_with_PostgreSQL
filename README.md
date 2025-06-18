@@ -43,7 +43,7 @@ docker-compose up -d
 
 ---
 
-## ** Access Services**  
+## Access Services
 | Service | URL | Credentials |  
 |---------|-----|------------|  
 | **FastAPI** | http://localhost:8000 | - |  
@@ -66,7 +66,7 @@ fastapi-postgres-docker/
 
 ---
 
-## ** Development**  
+##  Development  
 
 ### **Key Features**  
 - **Auto-init Database**: Tables created on startup via `init.sql`.  
