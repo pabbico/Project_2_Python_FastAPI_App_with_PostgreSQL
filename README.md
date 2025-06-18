@@ -8,7 +8,7 @@ A Dockerized **FastAPI** application with **PostgreSQL** database, preconfigured
 
 ---
 
-## ** Quick Start**  
+##  Quick Start  
 
 ### **Prerequisites**  
 - Docker ([Install Guide](https://docs.docker.com/get-docker/))  
