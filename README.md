@@ -98,12 +98,12 @@ fastapi-postgres-docker/
    - **Username**: `postgres`  
    - **Password**: From `.env`  
 
-## **📜 License**  
+##  License
 MIT License. See [LICENSE](LICENSE).  
 
 ---
 
-## **🙌 Credits**  
+##  Credits  
 - [FastAPI](https://fastapi.tiangolo.com/)  
 - [PostgreSQL Docker](https://hub.docker.com/_/postgres)  
 
