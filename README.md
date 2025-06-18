@@ -81,7 +81,7 @@ fastapi-postgres-docker/
 
 ---
 
-## ** Docker Commands**  
+##  Docker Commands  
 | Command | Description |  
 |---------|-------------|  
 | `docker-compose up -d` | Start all services |  
@@ -91,7 +91,7 @@ fastapi-postgres-docker/
 
 ---
 
-## ** Troubleshooting**  
+##  Troubleshooting
 ### **PGAdmin Connection**  
 1. Add a new server in PGAdmin:  
    - **Host**: `db` (Docker service name)  
